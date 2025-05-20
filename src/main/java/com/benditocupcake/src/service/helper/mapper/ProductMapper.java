@@ -4,6 +4,7 @@ import com.benditocupcake.src.controller.dto.request.product.ProductCreateReques
 import com.benditocupcake.src.controller.dto.request.product.ProductUpdateRequest;
 import com.benditocupcake.src.controller.dto.response.ProductPaginatedResponse;
 import com.benditocupcake.src.controller.dto.response.ProductResponse;
+import com.benditocupcake.src.controller.dto.response.Pagination;
 import com.benditocupcake.src.persistence.entity.ProductEntity;
 import org.mapstruct.BeanMapping;
 import org.mapstruct.Mapper;
